@@ -1,0 +1,16 @@
+.start-quiz {
+  background-color: #f3637e; /* Light pinkish-red */
+  color: rgb(250, 247, 247);
+  font-size: 18px;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.3s ease-in-out;
+  font-weight: bold;
+  box-shadow: 2px 4px 6px rgba(0, 0, 0, 0.2);
+}
+
+.start-quiz:hover {
+  background-color: #e23e3e; /* Turns red on hover */
+}
